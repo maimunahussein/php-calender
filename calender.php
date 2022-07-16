@@ -24,7 +24,7 @@ xmlns:v="urn:schemas-microsoft-com:vml">
 
 <tr>
 
-<th class='hr_td'> &nbsp; </th> <th class='table_header'>Jos</th><th class='table_header'>Yvonne</th><th class='table_header'>Muna</th>
+<th class='hr_td'> &nbsp; </th> <th class='table_header'>muna</th><th class='table_header'>sheyma</th><th class='table_header'>josphine</th>
 
 </tr>
 
